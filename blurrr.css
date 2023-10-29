@@ -1,0 +1,181 @@
+body {
+   background-color: #80A08170;
+   margin: 0px;
+   padding: 0px;
+   align-items: center;
+   text-align: center;
+}
+
+div {
+
+   border: 2px solid black;
+   font-weight: bold;
+   position: relative;
+   left: 0px;
+   top: 2px;
+   width: 20px;
+   margin: 4px;
+
+}
+
+header {
+   background-color: #2632A8A1;
+   position: absolute;
+   top: 6.99%;
+   width: 100%;
+}
+
+h1 {
+   text-align: center;
+   background-color: blanchedalmond;
+   letter-spacing: 2px;
+   text-justify: justify;
+   border-radius: 25em;
+   width: 100%;
+   margin-top: 10%;
+
+}
+
+h1 span {
+   transition: 0.7s;
+}
+
+h1:hover span:nth-child(1) {
+   margin-left: 5px;
+}
+
+h1:hover span:nth-child(1):after {
+   content: ".KB"
+
+}
+
+h1:hover span:nth-child(2) {
+   margin-right: 4px;
+}
+
+h1:hover span {
+   text-shadow: 4px 4px 4px greenyellow;
+
+}
+
+nav,
+table {
+   position: fixed;
+   align-items: center;
+   top: 0px;
+   width: 100%;
+   height: 4%;
+   padding: 10px 0px 10px 0px;
+   background-color: seagreen;
+
+}
+
+a {
+   text-decoration: none;
+   color: white;
+
+}
+
+th {
+   border: 0px solid #BCEE11;
+}
+
+.cc:hover {
+   border-top: 3px solid blue;
+   margin-bottom: 20px;
+   background-color: #2884A6;
+   padding-bottom: 14px;
+   padding-top: 10px;
+   padding-left: 20px;
+   padding-right: 12px;
+}
+
+.shake:hover {
+   border-top: 3px solid whitesmoke;
+   margin-bottom: 20px;
+   background-color: #252B2970;
+   padding-bottom: 14px;
+   padding-top: 10px;
+}
+
+.pb:hover {
+   border-top: 3px solid yellow;
+   margin-bottom: 20px;
+   background-color: #00000070;
+   padding-bottom: 14px;
+   padding-top: 10px;
+
+}
+
+.so:hover {
+   border-top: 3px solid orangered;
+   margin-left: 20px;
+   background-color: #00000047;
+   padding-bottom: 14px;
+   padding-top: 10px;
+}
+
+article {
+   align-items: center;
+   margin: 50% 20% 0% 20%;
+   position: flex;
+
+}
+
+footer {
+   position: relative;
+   padding: 0%;
+   margin: 0%;
+   bottom: 0%;
+
+}
+
+#cc {
+   border: 1px solid black;
+   align-items: center;
+   width: 100%;
+   height: auto;
+
+}
+
+section {
+   align-content: center;
+}
+
+main {
+   width: 100%;
+}
+
+img {
+   width: 50%;
+   height: auto;
+   margin: 5% 25% 10% 25%;
+}
+
+p {
+   text-align: center;
+   text-decoration: underline;
+   font-weight: bold;
+}
+
+h2 {
+   text-align: content;
+}
+
+.link:hover {
+   border-top: 3px solid darkred;
+   margin-left: 20px;
+   background-color: #00000047;
+   padding-bottom: 14px;
+   padding-top: 10px;
+
+}
+
+.mega {
+   text-align: center;
+   text-decoration: underline;
+   text-justify: justify;
+   font-weight: bold;
+   background-color: darkred;
+
+}

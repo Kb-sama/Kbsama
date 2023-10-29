@@ -1,0 +1,140 @@
+body {
+   background-color: #A9B32847;
+   text-align: center;
+   position: flex;
+   margin: 2px;
+   padding: 2px;
+}
+
+p {
+   text-justify: justify;
+   border: 0px solid black;
+   padding: 10px;
+   margin: 10px;
+   border-top-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+}
+
+.police,
+h2 {
+   font-family: cursive, fantasy;
+   border: 2px outset black
+}
+
+.police {
+   font-family: monospace;
+}
+
+.image {
+   position: absolut;
+   left: 30px;
+   right: 100px;
+   border-radius: 50%;
+   height: 150px;
+   margin: 25px 25px 7px 45px;
+   border: 4px solid #3C3E2647;
+}
+
+.divinsta {
+   padding: 10px;
+   margin: 7px;
+   background-color: wheat;
+   border: 1px solid blueviolet;
+   border-radius: 20px;
+   padding: 10px;
+   margin: 7px;
+   box-shadow: 7px 5px #3C3636;
+
+}
+
+.divyt {
+   padding: 10px;
+   margin: 7px;
+   background-color: wheat;
+   border: 1px solid blueviolet;
+   border-radius: 20px;
+   padding: 10px;
+   margin: 7px;
+   box-shadow: 7px 5px #3C3636;
+
+}
+
+.divtiktok {
+   padding: 10px;
+   margin: 7px;
+   background-color: wheat;
+   border: 1px solid blueviolet;
+   border-radius: 20px;
+   padding: 10px;
+   margin: 7px;
+   box-shadow: 7px 5px #3C3636;
+
+}
+
+.divpint {
+   padding: 10px;
+   margin: 7px;
+   background-color: wheat;
+   border: 1px solid blueviolet;
+   border-radius: 20px;
+   padding: 10px;
+   margin: 7px;
+   box-shadow: 7px 5px #3C3636;
+
+}
+
+.divblurrr {
+   padding: 10px;
+   margin: 7px;
+   background-color: wheat;
+   border: 1px solid blueviolet;
+   border-radius: 20px;
+   padding: 10px;
+   margin: 7px;
+   box-shadow: 7px 5px #3C3636;
+}
+
+.violet:hover {
+   color: #3C13C6BA;
+   text-shadow: 0 0 10 #fff;
+   text-shadow: 0 0 20 #fff;
+
+}
+
+.vert:hover {
+   color: #31AC1F;
+   text-shadow: 0 0 10 #fff;
+   text-shadow: 0 0 20 #fff;
+}
+
+.blanc:hover {
+   color: whitesmoke;
+   text-shadow: 0 0 10 #fff;
+   text-shadow: 0 0 20 #fff;
+}
+
+.rouge:hover {
+   color: red;
+   text-shadow: 0 0 10 #fff;
+   text-shadow: 0 0 20 #fff;
+}
+
+.noir:hover {
+   color: midnightblue;
+   text-shadow: 0 0 10 #fff;
+   text-shadow: 0 0 20 #fff;
+}
+
+a:link {
+   text-decoration: none;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 16px;
+   font-weight: bold;
+   letter-spacing: 2px;
+}
+
+footer {
+   border: 0px solid rebeccapurple;
+   padding: 10px;
+   margin: 4px;
+}
